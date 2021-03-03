@@ -1,2 +1,2 @@
-# ReactPropsDTools
+# ReactProperties
 Created with CodeSandbox
